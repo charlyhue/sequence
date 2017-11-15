@@ -1,0 +1,15 @@
+nav {
+	margin-bottom: 50px;
+}
+#code {
+	height: 250px;
+}
+#error {
+	display: none;
+}
+#diagram-help {
+	width:100%;
+}
+.card-content-diagram {
+	overflow-x: auto;
+}
